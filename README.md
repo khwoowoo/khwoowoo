@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently majoring in computer engineering at Dongguk University
-- 🌱 I’m currently learning to develop a server
-- 📫 How to contact: gusdn74102@gmail.com
+- 🌱 I’m currently learning to server development
+- 📫 How to contact: gusdn741021@gmail.com
 - ⚡ Fun fact: I developed a game before I studied server development
 
 # Skills
