@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 - 🔭 I’m currently majoring in computer engineering at Dongguk University
 - 🌱 I’m currently learning to server development
 - 📫 How to contact: gusdn741021@gmail.com
