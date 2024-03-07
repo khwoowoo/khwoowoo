@@ -2,6 +2,7 @@
 - 🔭 I’m currently majoring in computer engineering at Dongguk University
 - 🌱 I’m currently learning to server development
 - 📫 How to contact: gusdn741021@gmail.com
+- ✨ portfolio: [Click!](https://spiky-revolve-0f4.notion.site/17f1b64cdc624b58839a47ced78f391e)
 
 # Skills
 ### strong
