@@ -4,20 +4,22 @@
 - 📫 How to contact: gusdn741021@gmail.com
 - ✨ portfolio: [Click!](https://spiky-revolve-0f4.notion.site/17f1b64cdc624b58839a47ced78f391e)
 
-# Skills
+# Skills 🐳
 ### strong
-
-- java/spring/oracle/mysql/h2
+- Java/Spring/JPA/Oracle/MySQL/H2
 - Vanilla JS
+- CI & CD/Github Actions/Elastic beanstalk
+- AWS/EC2/RDS/S3/ELB
 
 ### knowledgeable
 
-- python/ML/pygame
-- dart/flutter
-- javascript/react.js/firebase
-- kotlin/android studio
-- c#/unity
-- c++/unreal/directX9
+- Python/ML/Pygame
+- C++/Unreal/DirectX9
+- C#/Unity
+- Dart/Flutter
+- Kotlin/Android studio
+- Javascript/React.js/Firebase
+  
 
 <!--
 **khwoowoo/khwoowoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
