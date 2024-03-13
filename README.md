@@ -1,6 +1,7 @@
 # Hi there 👋
 - 🔭 I’m currently majoring in computer engineering at Dongguk University
 - 🌱 I’m currently learning to server development
+- 🏆 My goal is to be the best server developer
 - 📫 How to contact: gusdn741021@gmail.com
 - ✨ portfolio: [Click!](https://spiky-revolve-0f4.notion.site/17f1b64cdc624b58839a47ced78f391e)
 
