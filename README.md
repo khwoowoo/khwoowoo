@@ -12,13 +12,13 @@
 - AWS/EC2/RDS/S3/ELB
 
 ### knowledgeable
-
 - Python/ML/Pygame
 - C++/Unreal/DirectX9
 - C#/Unity
 - Dart/Flutter
 - Kotlin/Android studio
 - Javascript/React.js/Firebase
+- Design/Adobe/XD/Photoshop/illustrator/웹디지인기능사/컴퓨터그래픽스운용기능사
   
 
 <!--
