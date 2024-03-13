@@ -7,7 +7,7 @@
 
 # Skills 🐳
 ### strong
-- Java/Spring/JPA/Oracle/MySQL/H2
+- Java/Spring/SpringBoot/JPA/Oracle/MySQL/H2
 - Vanilla JS
 - CI & CD/Github Actions/Elastic beanstalk
 - AWS/EC2/RDS/S3/ELB
