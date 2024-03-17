@@ -1,11 +1,10 @@
-
-![Untitled-1](https://github.com/khwoowoo/khwoowoo/assets/23547185/225693f1-4fde-4213-8730-9245810ef460)
+# Hi there 👋
 - 🔭 I’m currently majoring in computer engineering at Dongguk University
 - 🌱 I’m currently learning to server development
 - 🏆 My goal is to be the best server developer
 - 📫 How to contact: gusdn741021@gmail.com
 - ✨ portfolio: [Click!](https://spiky-revolve-0f4.notion.site/17f1b64cdc624b58839a47ced78f391e)
-<!--
+
 # Skills 🐳
 ### strong
 - Java/Spring/SpringBoot/JPA/Oracle/MySQL/H2
@@ -22,8 +21,8 @@
 - Javascript/React.js/Firebase
 - Design/Adobe/XD/Photoshop/illustrator/웹디지인기능사/컴퓨터그래픽스운용기능사
   
-
-
+<!--
+![Untitled-1](https://github.com/khwoowoo/khwoowoo/assets/23547185/225693f1-4fde-4213-8730-9245810ef460)
 **khwoowoo/khwoowoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
