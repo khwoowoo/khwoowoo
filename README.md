@@ -1,4 +1,5 @@
-# Hi there 👋
+
+![스크린샷 2024-03-17 102508](https://github.com/khwoowoo/khwoowoo/assets/23547185/6ec0ea77-c175-4eab-b855-be4c0915c6d9)
 - 🔭 I’m currently majoring in computer engineering at Dongguk University
 - 🌱 I’m currently learning to server development
 - 🏆 My goal is to be the best server developer
