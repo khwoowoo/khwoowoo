@@ -1,5 +1,5 @@
 
-<img width="500" src = "https://github.com/khwoowoo/khwoowoo/assets/23547185/6ec0ea77-c175-4eab-b855-be4c0915c6d9">
+![Untitled-1](https://github.com/khwoowoo/khwoowoo/assets/23547185/225693f1-4fde-4213-8730-9245810ef460)
 
 <br>
 
