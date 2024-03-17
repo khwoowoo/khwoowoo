@@ -1,9 +1,5 @@
-
-![Untitled-1](https://github.com/khwoowoo/khwoowoo/assets/23547185/225693f1-4fde-4213-8730-9245810ef460)
-
-<br>
-
 # Hi there 👋
+![Untitled-1](https://github.com/khwoowoo/khwoowoo/assets/23547185/225693f1-4fde-4213-8730-9245810ef460)
 - 🔭 I’m currently majoring in computer engineering at Dongguk University
 - 🌱 I’m currently learning to server development
 - 🏆 My goal is to be the best server developer
