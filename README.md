@@ -3,6 +3,7 @@
 
 <br>
 
+# Hi there 👋
 - 🔭 I’m currently majoring in computer engineering at Dongguk University
 - 🌱 I’m currently learning to server development
 - 🏆 My goal is to be the best server developer
