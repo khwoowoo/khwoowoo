@@ -3,22 +3,6 @@
 - 🌱 I’m currently learning to server development
 - 🏆 My goal is to be the best server developer
 - 📫 How to contact: gusdn741021@gmail.com
-
-# Skills 🐳
-### strong
-- Java/Spring/SpringBoot/JPA/Oracle/MySQL/H2
-- Vanilla JS
-- CI & CD/Github Actions/Elastic beanstalk
-- AWS/EC2/RDS/S3/ELB
-
-### knowledgeable
-- Python/ML/Pygame
-- C++/Unreal/DirectX9
-- C#/Unity
-- Dart/Flutter
-- Kotlin/Android studio
-- Javascript/React.js/Firebase
-- Design/Adobe/XD/Photoshop/illustrator/웹디지인기능사/컴퓨터그래픽스운용기능사
   
 <!--
 ![Untitled-1](https://github.com/khwoowoo/khwoowoo/assets/23547185/225693f1-4fde-4213-8730-9245810ef460)
@@ -36,4 +20,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ✨ portfolio: [Click!](https://spiky-revolve-0f4.notion.site/17f1b64cdc624b58839a47ced78f391e)
 
+# Skills 🐳
+### strong
+- Java/Spring/SpringBoot/JPA/Oracle/MySQL/H2
+- Vanilla JS
+- CI & CD/Github Actions/Elastic beanstalk
+- AWS/EC2/RDS/S3/ELB
+
+### knowledgeable
+- Python/ML/Pygame
+- C++/Unreal/DirectX9
+- C#/Unity
+- Dart/Flutter
+- Kotlin/Android studio
+- Javascript/React.js/Firebase
+- Design/Adobe/XD/Photoshop/illustrator/웹디지인기능사/컴퓨터그래픽스운용기능사
 -->
