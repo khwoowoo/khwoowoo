@@ -18,7 +18,7 @@
 - Dart/Flutter
 - Kotlin/Android studio
 - Javascript/React.js/Firebase
-- Design/Adobe/XD/Photoshop/illustrator/웹디지인기능사/컴퓨터그래픽스운용기능사
+- Design/Adobe/XD/Photoshop/illustrator
   
 <!--
 ![Untitled-1](https://github.com/khwoowoo/khwoowoo/assets/23547185/225693f1-4fde-4213-8730-9245810ef460)
