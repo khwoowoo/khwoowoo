@@ -3,6 +3,13 @@
 - 🌱 I’m currently learning to server development
 - 🏆 My goal is to be the best server developer
 - 📫 How to contact: gusdn741021@gmail.com
+
+
+<a href="https://github.com/devxb/gitanimals">
+    <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/khwoowoo"/>
+</a>
+
+
   
 <!--
 # Skills 🐳
