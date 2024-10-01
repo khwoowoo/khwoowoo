@@ -6,7 +6,7 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-    <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/khwoowoo"/>
+    <img alt="docs/sample.svg" width=500 src="https://render.gitanimals.org/farms/khwoowoo"/>
 </a>
 
 
