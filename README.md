@@ -1,18 +1,8 @@
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/khwoowoo"
-  width="500"
-  height="300"
-/>
-</a>
-
-<!--
 # Skills 🐳
 ### strong
 - Java/Spring/SpringBoot/Spring Data JPA/Oracle/MySQL/H2
 - Vanilla JS
-- CICD/Github Actions/AWS Elastic beanstalk
-- AWS/EC2/RDS/S3/ELB
+- AWS/EC2/RDS/S3/Elastic beanstalk
 
 ### knowledgeable
 - Python/ML/Pygame
@@ -23,12 +13,22 @@
 - Javascript/React.js/Firebase
 - Adobe/XD/Photoshop/illustrator
 
+<!--
+
+
 # Hi there 👋
 - 🔭 I’m currently majoring in computer engineering at Dongguk University
 - 🌱 I’m currently learning to server development
 - 🏆 My goal is to be the best server developer
 - 📫 How to contact: gusdn741021@gmail.com
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/khwoowoo"
+  width="500"
+  height="300"
+/>
+</a>
 
 ![Untitled-1](https://github.com/khwoowoo/khwoowoo/assets/23547185/225693f1-4fde-4213-8730-9245810ef460)
 **khwoowoo/khwoowoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
