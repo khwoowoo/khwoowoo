@@ -1,3 +1,13 @@
+# Hi there 👋
+- 🔭 I’m currently majoring in computer engineering at Dongguk University
+- 🌱 I’m currently learning to server development
+- 🏆 My goal is to be the best server developer
+- 📫 How to contact: gusdn741021@gmail.com
+- [RESUME ✨](https://spiky-revolve-0f4.notion.site/124f6aaa258f80e1940bfa0248a1f29c?pvs=74)
+
+
+<!--
+
 # Skills 🐳
 ### strong
 - Java/Spring/SpringBoot/Spring Data JPA/Oracle/MySQL/H2
@@ -12,8 +22,6 @@
 - Kotlin/Android studio
 - Javascript/React.js/Firebase
 - Adobe/XD/Photoshop/illustrator
-
-<!--
 
 
 # Hi there 👋
